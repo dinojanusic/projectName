@@ -10,6 +10,7 @@
 if (isset($_SESSION['userId'])) {
   echo '<div class="container bg-light text-center">
      <p>You are logged In!</p>
+     <p>Have a nice day!</p>
    </div>';
 }
 else {
